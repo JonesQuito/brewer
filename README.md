@@ -20,8 +20,8 @@
 - Thymeleaf Layout Dialect - 2.0.0
 
 ## Lista de tarefas
-- [] Criar o projeto
-- [] Congigurar o pom.xml
-- [] Definir Layout padrão
+- [X] Criar o projeto
+- [X] Congigurar o pom.xml
+- [X] Definir Layout padrão
 - [] Criar classes de domínio
 - [] Definir e configurar estrutura de persistência com JPA e HIBERNATE
