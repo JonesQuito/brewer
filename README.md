@@ -5,7 +5,7 @@
 Instrutor: Normandes
 
 ## Para fazer o clone
-`git clone  https://github.com/JonesQuito/brewer.git
+`git clone  https://github.com/JonesQuito/brewer.git`
 
 ## Para rodar o projeto
 ...
