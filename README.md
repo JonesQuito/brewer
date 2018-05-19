@@ -11,7 +11,7 @@ Instrutor: Normandes
 ...
 
 ## Principais tecnologas utilizadas
-Spring MVC          -   4.3.0.RELEASE
+`Spring MVC          -   4.3.0.RELEASE\n`
 Servlet API         -   3.1.0
 Thymeleaf           -   3.0.0.RELEASE
 Hibernate validator -   5.2.4.Final
