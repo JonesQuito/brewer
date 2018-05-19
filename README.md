@@ -5,6 +5,7 @@
 ## Breve descrição
 ...
 
+require "pom.xml"
 
 ## Para fazer o clone
 `git clone  https://github.com/JonesQuito/brewer.git`
