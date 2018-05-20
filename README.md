@@ -5,7 +5,6 @@
 ## Breve descrição
 ...
 
-
 ## Para fazer o clone
 `git clone  https://github.com/JonesQuito/brewer.git`
 
