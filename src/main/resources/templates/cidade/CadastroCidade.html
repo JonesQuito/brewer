@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+	layout:decorate="'layout/LayoutPadrao'">
+
+<head>
+	<title>Cadastro de cidade</title>
+</head> <!-- Bug corrigido - já não é necessário manter a tag <head> -->
+
+<body>
+		
+<section layout:fragment="conteudo">
+
+	<div class="page-header">
+		<div class="container-fluid">
+			<h1>
+				Cadastro de cidade
+			</h1>
+		</div>
+	</div>
+
+	<div class="container-fluid">
+	
+		<form>
+			
+			<div class="row">
+				<div class="col-sm-4  form-group">
+					<label for="estado">Estado</label>
+					<select id="cidade" class="form-control">
+						<option value="">Selecione um estado</option>
+						<option value="Goiáis">Goiáis</option>
+						<option value="Pará">Pará</option>
+					</select>
+					
+				</div>
+				
+				<div class="col-sm-8  form-group">
+					<label for="cidade">Cidade</label>
+					<input id="cidade" type="text" class="form-control"/>
+				</div>
+			</div>
+	
+			<button class="btn  btn-primary" type="submit">Salvar</button>
+	
+		</form>
+	</div>
+
+	<div th:replace="estilo/CadastroRapidoEstilo :: modal"></div>
+</section>
+
+</body>
+</html>

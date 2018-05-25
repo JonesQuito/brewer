@@ -23,7 +23,7 @@
 - [X] Introdução ao Spring
 - [X] Spring MVC, Thymeleaf e Bean Validation
 - [X] O Thymeleaf
-- [] Layout responsivo com Bootstrap e HTML5
+- [X] Layout responsivo com Bootstrap e HTML5
 - [] Logging
 - [] Injeção de dependência com Spring IoC
 - [] JPA, Hibernate e Flyway
