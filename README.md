@@ -24,7 +24,7 @@
 - [X] Spring MVC, Thymeleaf e Bean Validation
 - [X] O Thymeleaf
 - [X] Layout responsivo com Bootstrap e HTML5
-- [] Logging
+- [X] Logging
 - [] Injeção de dependência com Spring IoC
 - [] JPA, Hibernate e Flyway
 - [] Spring Data JPA e Padrão Repository
