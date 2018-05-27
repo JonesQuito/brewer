@@ -25,8 +25,8 @@
 - [X] O Thymeleaf
 - [X] Layout responsivo com Bootstrap e HTML5
 - [X] Logging
-- [] Injeção de dependência com Spring IoC
-- [] JPA, Hibernate e Flyway
+- [X] Injeção de dependência com Spring IoC
+- [X] JPA, Hibernate e Flyway
 - [] Spring Data JPA e Padrão Repository
 - []  Validação customizada e conversores
 - [] Tratando exceções, callbacks JPA e Ajax
