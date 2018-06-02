@@ -27,10 +27,10 @@
 - [X] Logging
 - [X] Injeção de dependência com Spring IoC
 - [X] JPA, Hibernate e Flyway
-- [] Spring Data JPA e Padrão Repository
-- []  Validação customizada e conversores
+- [X] Spring Data JPA e Padrão Repository
+- [] Validação customizada e conversores
 - [] Tratando exceções, callbacks JPA e Ajax
-- []  Modularizando o JavaScript
+- [] Modularizando o JavaScript
 - [] Estendendo o Thymeleaf
 - [] Upload da foto e retorno assíncrono
 - [] Pesquisa, redimensionamento da foto, paginação e ordenação
